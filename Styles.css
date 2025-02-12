@@ -1,0 +1,55 @@
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos del header */
+header {
+    background-color: #0000FF;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilos de las secciones */
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #4CAF;
+}
+
+/* Estilos de los enlaces */
+a {
+    color: #4CAF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos del footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #800080;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
